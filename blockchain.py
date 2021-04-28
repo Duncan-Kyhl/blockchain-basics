@@ -1,3 +1,7 @@
+# https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+# https://www.trufflesuite.com/
+
+
 import hashlib
 import json
 from time import time
